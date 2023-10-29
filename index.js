@@ -8,5 +8,3 @@ const getDateAfterXDays = (days) => {
 };
 
 module.exports = getDateAfterXDays;
-
-module.exports = GetDateAfterxDays;
